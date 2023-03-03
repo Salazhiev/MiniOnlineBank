@@ -1,0 +1,11 @@
+D:\MyTinkoff\MyTinkoff.CMD\obj\Debug\MyTinkoff.CMD.csproj.AssemblyReference.cache
+D:\MyTinkoff\MyTinkoff.CMD\obj\Debug\MyTinkoff.CMD.csproj.SuggestedBindingRedirects.cache
+D:\MyTinkoff\MyTinkoff.CMD\obj\Debug\MyTinkoff.CMD.csproj.CoreCompileInputs.cache
+D:\MyTinkoff\MyTinkoff.CMD\bin\Debug\MyTinkoff.CMD.exe.config
+D:\MyTinkoff\MyTinkoff.CMD\bin\Debug\MyTinkoff.CMD.exe
+D:\MyTinkoff\MyTinkoff.CMD\bin\Debug\MyTinkoff.CMD.pdb
+D:\MyTinkoff\MyTinkoff.CMD\bin\Debug\MyTinkoff.BL.dll
+D:\MyTinkoff\MyTinkoff.CMD\bin\Debug\MyTinkoff.BL.pdb
+D:\MyTinkoff\MyTinkoff.CMD\obj\Debug\MyTinkoff.CMD.csproj.CopyComplete
+D:\MyTinkoff\MyTinkoff.CMD\obj\Debug\MyTinkoff.CMD.exe
+D:\MyTinkoff\MyTinkoff.CMD\obj\Debug\MyTinkoff.CMD.pdb

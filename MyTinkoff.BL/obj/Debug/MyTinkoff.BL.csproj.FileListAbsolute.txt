@@ -1,0 +1,9 @@
+D:\MyTinkoff\MyTinkoff.BL\bin\Debug\MyTinkoff.BL.dll
+D:\MyTinkoff\MyTinkoff.BL\bin\Debug\MyTinkoff.BL.pdb
+D:\MyTinkoff\MyTinkoff.BL\obj\Debug\MyTinkoff.BL.csproj.AssemblyReference.cache
+D:\MyTinkoff\MyTinkoff.BL\obj\Debug\MyTinkoff.BL.csproj.CoreCompileInputs.cache
+D:\MyTinkoff\MyTinkoff.BL\obj\Debug\MyTinkoff.BL.dll
+D:\MyTinkoff\MyTinkoff.BL\obj\Debug\MyTinkoff.BL.pdb
+D:\MyTinkoff\MyTinkoff.BL\bin\Debug\Newtonsoft.Json.dll
+D:\MyTinkoff\MyTinkoff.BL\bin\Debug\Newtonsoft.Json.xml
+D:\MyTinkoff\MyTinkoff.BL\obj\Debug\MyTinkoff.BL.csproj.CopyComplete
